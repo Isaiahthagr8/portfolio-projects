@@ -16,8 +16,16 @@ Developed an automated system that:
 - Tracks work orders in a centralized database
 - Generates invoices through QuickBooks API
 
-## System Workflow
-Vendor PDF → SharePoint → Power Automate → Data Extraction → Folder Creation → Power App → Invoice → QuickBooks
+### System Workflow
+
+1. Vendor PDF uploaded (Telgian / Commercial Fire)
+2. Stored in SharePoint (_INBOX)
+3. Power Automate triggers routing flow
+4. Extracts Work Order, Customer, Location data
+5. Creates structured folder hierarchy
+6. Updates centralized Work Order database
+7. Power App used to manage job lifecycle
+8. Invoice generated via QuickBooks API
 
 ## Tech Stack
 - Power Apps
