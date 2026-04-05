@@ -17,7 +17,7 @@ I am currently building projects that demonstrate:
 - Business performance analysis
 
 ## 🚧 Projects (Completed)
-- Operations Automation System (Priority 1 Fire Safety,LLC)
+- - [Operations Automation System (Priority 1 Fire Safety, LLC)](./operations-automation-system)
 ## (In progress)
 - Financial Performance Dashboard (Power BI)
 - Sales Data Analysis (SQL)
