@@ -7,6 +7,7 @@ This repository showcases projects related to:
 - Business Intelligence (Power BI)
 - Financial Analysis
 - SQL & Data Engineering
+- System Automation
 
 ## 📊 Current Focus
 I am currently building projects that demonstrate:
@@ -15,7 +16,9 @@ I am currently building projects that demonstrate:
 - SQL querying and data transformation
 - Business performance analysis
 
-## 🚧 Projects (In Progress)
+## 🚧 Projects (Completed)
+- Operations Automation System (Priority 1 Fire Safety,LLC)
+  (In progress)
 - Financial Performance Dashboard (Power BI)
 - Sales Data Analysis (SQL)
 - ETL & Data Warehouse Project
