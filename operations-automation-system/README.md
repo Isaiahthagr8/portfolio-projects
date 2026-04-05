@@ -16,7 +16,7 @@ Developed an automated system that:
 - Tracks work orders in a centralized database
 - Generates invoices through QuickBooks API
 
-### System Workflow
+## System Workflow
 
 1. Vendor PDF uploaded (Telgian / Commercial Fire)
 2. Stored in SharePoint (_INBOX)
