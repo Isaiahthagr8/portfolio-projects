@@ -26,7 +26,40 @@ Vendor PDF → SharePoint → Power Automate → Data Extraction → Folder Crea
 - QuickBooks API (OAuth)
 
 ## Screenshots
-(put your images here)
+## System Architecture
+
+### Power Apps (Data Model)
+![Power Apps Table](../screenshots/powerapps-workorders-table.png)
+
+---
+
+### Power Automate – Flow Overview
+![Flow Overview](../screenshots/powerautomate-flow-overview.png)
+
+---
+
+### Power Automate – Routing Logic (Top)
+![Routing Top](../screenshots/powerautomate-routing-top.png)
+
+---
+
+### Power Automate – Routing Logic (Bottom)
+![Routing Bottom](../screenshots/powerautomate-routing-bottom.png)
+
+---
+
+### SharePoint – Folder Structure
+![SharePoint Structure](../screenshots/sharepoint-folder-structure.png)
+
+---
+
+### Power Apps – Work Order Interface
+![Work Orders UI](../screenshots/powerapp-workorders-screen.png)
+
+---
+
+### Power Apps – Invoice Interface
+![Invoice UI](../screenshots/powerapp-invoice-screen.png)
 
 ## Key Features
 - Automated file routing
