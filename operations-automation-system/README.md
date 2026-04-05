@@ -1,6 +1,6 @@
 # Operations Automation System (Priority 1 Fire Safety)
 
-End-to-end automation system for processing vendor PDFs, organizing work orders, and generating invoices.
+Built an end-to-end automation system that reduced manual administrative work by ~60–80% and streamlined invoice processing for a fire safety company.
 
 ## Overview
 Built using Power Apps, Power Automate, SharePoint, and QuickBooks API.
