@@ -18,7 +18,7 @@ I am currently building projects that demonstrate:
 
 ## 🚧 Projects (Completed)
 - Operations Automation System (Priority 1 Fire Safety,LLC)
-  (In progress)
+## (In progress)
 - Financial Performance Dashboard (Power BI)
 - Sales Data Analysis (SQL)
 - ETL & Data Warehouse Project
